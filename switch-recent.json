@@ -1,0 +1,32 @@
+{
+  "games": [
+    {
+      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/45d94b29992a40af8cfabdb7cd11bb05_256",
+      "lastPlayedAt": "2026-08-23T12:00:00-07:00",
+      "lifetimeMinutes": 155,
+      "minutesTotal": 155,
+      "name": "Mixtape",
+      "source": "switch",
+      "url": "https://ec.nintendo.com/apps/040045f02661e000/US?lang=en-US"
+    },
+    {
+      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/e3186a8890b84c6a8f9575afed89495f_256",
+      "lastPlayedAt": "2026-08-19T12:00:00-07:00",
+      "lifetimeMinutes": 280,
+      "minutesTotal": 270,
+      "name": "Splatoon Raiders",
+      "source": "switch",
+      "url": "https://ec.nintendo.com/apps/0400380020056000/US?lang=en-US"
+    }
+  ],
+  "generatedAt": "2026-08-23T19:50:50Z",
+  "lastPlayed": {
+    "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/45d94b29992a40af8cfabdb7cd11bb05_256",
+    "lastPlayedAt": "2026-08-23T12:00:00-07:00",
+    "lifetimeMinutes": 155,
+    "minutesTotal": 155,
+    "name": "Mixtape",
+    "source": "switch",
+    "url": "https://ec.nintendo.com/apps/040045f02661e000/US?lang=en-US"
+  }
+}
