@@ -1,22 +1,22 @@
 {
   "games": [
     {
-      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/d86e452a62d3426da2d16a79f73120a7_256",
-      "lastPlayedAt": "2026-08-24T12:00:00-07:00",
-      "lifetimeMinutes": null,
-      "minutesTotal": 13,
-      "name": "Rhythm Heaven Groove",
-      "source": "switch",
-      "url": "https://ec.nintendo.com/apps/0100d9f01d474000/US?lang=en-US"
-    },
-    {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/e3186a8890b84c6a8f9575afed89495f_256",
-      "lastPlayedAt": "2026-08-23T12:00:00-07:00",
-      "lifetimeMinutes": 330,
-      "minutesTotal": 330,
+      "lastPlayedAt": "2026-08-24T12:00:00-07:00",
+      "lifetimeMinutes": 335,
+      "minutesTotal": 335,
       "name": "Splatoon Raiders",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/0400380020056000/US?lang=en-US"
+    },
+    {
+      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/d86e452a62d3426da2d16a79f73120a7_256",
+      "lastPlayedAt": "2026-08-24T12:00:00-07:00",
+      "lifetimeMinutes": null,
+      "minutesTotal": 25,
+      "name": "Rhythm Heaven Groove",
+      "source": "switch",
+      "url": "https://ec.nintendo.com/apps/0100d9f01d474000/US?lang=en-US"
     },
     {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/45d94b29992a40af8cfabdb7cd11bb05_256",
@@ -28,14 +28,14 @@
       "url": "https://ec.nintendo.com/apps/040045f02661e000/US?lang=en-US"
     }
   ],
-  "generatedAt": "2026-08-25T05:25:54Z",
+  "generatedAt": "2026-08-25T05:40:59Z",
   "lastPlayed": {
-    "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/d86e452a62d3426da2d16a79f73120a7_256",
+    "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/e3186a8890b84c6a8f9575afed89495f_256",
     "lastPlayedAt": "2026-08-24T12:00:00-07:00",
-    "lifetimeMinutes": null,
-    "minutesTotal": 13,
-    "name": "Rhythm Heaven Groove",
+    "lifetimeMinutes": 335,
+    "minutesTotal": 335,
+    "name": "Splatoon Raiders",
     "source": "switch",
-    "url": "https://ec.nintendo.com/apps/0100d9f01d474000/US?lang=en-US"
+    "url": "https://ec.nintendo.com/apps/0400380020056000/US?lang=en-US"
   }
 }
