@@ -1,6 +1,15 @@
 {
   "games": [
     {
+      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/c0c6b94ee65d4bc1a839e7baa92f8282_256",
+      "lastPlayedAt": "2026-08-28T15:32:46-07:00",
+      "lifetimeMinutes": null,
+      "minutesTotal": 10,
+      "name": "MLB\u00ae The Show\u2122 26",
+      "source": "switch",
+      "url": "https://ec.nintendo.com/apps/0100aa7024094000/US?lang=en-US"
+    },
+    {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/74c014f14e03437a803a879d89920cc1_256",
       "lastPlayedAt": "2026-08-28T06:30:40-07:00",
       "lifetimeMinutes": null,
@@ -26,25 +35,16 @@
       "name": "Splatoon Raiders",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/0400380020056000/US?lang=en-US"
-    },
-    {
-      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/b28d9a97feae4bb0a18b3d41a28d25ef_256",
-      "lastPlayedAt": "2026-08-26T12:00:00-07:00",
-      "lifetimeMinutes": null,
-      "minutesTotal": 75,
-      "name": "SnowRunner",
-      "source": "switch",
-      "url": "https://ec.nintendo.com/apps/0400b3e026c64000/US?lang=en-US"
     }
   ],
-  "generatedAt": "2026-08-28T13:30:41Z",
+  "generatedAt": "2026-08-28T22:32:47Z",
   "lastPlayed": {
-    "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/74c014f14e03437a803a879d89920cc1_256",
-    "lastPlayedAt": "2026-08-28T06:30:40-07:00",
+    "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/c0c6b94ee65d4bc1a839e7baa92f8282_256",
+    "lastPlayedAt": "2026-08-28T15:32:46-07:00",
     "lifetimeMinutes": null,
-    "minutesTotal": 45,
-    "name": "ELDEN RING Tarnished Edition",
+    "minutesTotal": 10,
+    "name": "MLB\u00ae The Show\u2122 26",
     "source": "switch",
-    "url": "https://ec.nintendo.com/apps/0400f5802371e000/US?lang=en-US"
+    "url": "https://ec.nintendo.com/apps/0100aa7024094000/US?lang=en-US"
   }
 }
