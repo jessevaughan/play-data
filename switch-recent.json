@@ -2,9 +2,9 @@
   "games": [
     {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/c13cedfda6ba4faf93886165709a5d74_256",
-      "lastPlayedAt": "2026-08-27T11:11:16-07:00",
-      "lifetimeMinutes": 17,
-      "minutesTotal": 17,
+      "lastPlayedAt": "2026-08-27T23:28:57-07:00",
+      "lifetimeMinutes": 20,
+      "minutesTotal": 20,
       "name": "Is This Seat Taken?",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/0100b1f023e08000/US?lang=en-US"
@@ -37,12 +37,12 @@
       "url": "https://ec.nintendo.com/apps/010075701153a000/US?lang=en-US"
     }
   ],
-  "generatedAt": "2026-08-27T18:11:17Z",
+  "generatedAt": "2026-08-28T06:28:58Z",
   "lastPlayed": {
     "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/c13cedfda6ba4faf93886165709a5d74_256",
-    "lastPlayedAt": "2026-08-27T11:11:16-07:00",
-    "lifetimeMinutes": 17,
-    "minutesTotal": 17,
+    "lastPlayedAt": "2026-08-27T23:28:57-07:00",
+    "lifetimeMinutes": 20,
+    "minutesTotal": 20,
     "name": "Is This Seat Taken?",
     "source": "switch",
     "url": "https://ec.nintendo.com/apps/0100b1f023e08000/US?lang=en-US"
