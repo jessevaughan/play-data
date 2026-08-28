@@ -2,12 +2,21 @@
   "games": [
     {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/c13cedfda6ba4faf93886165709a5d74_256",
-      "lastPlayedAt": "2026-08-27T23:28:57-07:00",
-      "lifetimeMinutes": 20,
-      "minutesTotal": 20,
+      "lastPlayedAt": "2026-08-27T23:44:03-07:00",
+      "lifetimeMinutes": 25,
+      "minutesTotal": 25,
       "name": "Is This Seat Taken?",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/0100b1f023e08000/US?lang=en-US"
+    },
+    {
+      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/74c014f14e03437a803a879d89920cc1_256",
+      "lastPlayedAt": "2026-08-27T23:44:03-07:00",
+      "lifetimeMinutes": null,
+      "minutesTotal": 10,
+      "name": "ELDEN RING Tarnished Edition",
+      "source": "switch",
+      "url": "https://ec.nintendo.com/apps/0400f5802371e000/US?lang=en-US"
     },
     {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/e3186a8890b84c6a8f9575afed89495f_256",
@@ -26,23 +35,14 @@
       "name": "SnowRunner",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/0400b3e026c64000/US?lang=en-US"
-    },
-    {
-      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/a27c8c8172d046be93453a334f819a16_256",
-      "lastPlayedAt": "2026-08-26T12:00:00-07:00",
-      "lifetimeMinutes": 13,
-      "minutesTotal": 13,
-      "name": "Superliminal",
-      "source": "switch",
-      "url": "https://ec.nintendo.com/apps/010075701153a000/US?lang=en-US"
     }
   ],
-  "generatedAt": "2026-08-28T06:28:58Z",
+  "generatedAt": "2026-08-28T06:44:04Z",
   "lastPlayed": {
     "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/c13cedfda6ba4faf93886165709a5d74_256",
-    "lastPlayedAt": "2026-08-27T23:28:57-07:00",
-    "lifetimeMinutes": 20,
-    "minutesTotal": 20,
+    "lastPlayedAt": "2026-08-27T23:44:03-07:00",
+    "lifetimeMinutes": 25,
+    "minutesTotal": 25,
     "name": "Is This Seat Taken?",
     "source": "switch",
     "url": "https://ec.nintendo.com/apps/0100b1f023e08000/US?lang=en-US"
