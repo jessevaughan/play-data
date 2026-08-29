@@ -2,9 +2,9 @@
   "games": [
     {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/e3186a8890b84c6a8f9575afed89495f_256",
-      "lastPlayedAt": "2026-08-29T11:07:39-07:00",
-      "lifetimeMinutes": 555,
-      "minutesTotal": 555,
+      "lastPlayedAt": "2026-08-29T11:22:45-07:00",
+      "lifetimeMinutes": 565,
+      "minutesTotal": 565,
       "name": "Splatoon Raiders",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/0400380020056000/US?lang=en-US"
@@ -37,12 +37,12 @@
       "url": "https://ec.nintendo.com/apps/0100b1f023e08000/US?lang=en-US"
     }
   ],
-  "generatedAt": "2026-08-29T18:07:41Z",
+  "generatedAt": "2026-08-29T18:22:46Z",
   "lastPlayed": {
     "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/e3186a8890b84c6a8f9575afed89495f_256",
-    "lastPlayedAt": "2026-08-29T11:07:39-07:00",
-    "lifetimeMinutes": 555,
-    "minutesTotal": 555,
+    "lastPlayedAt": "2026-08-29T11:22:45-07:00",
+    "lifetimeMinutes": 565,
+    "minutesTotal": 565,
     "name": "Splatoon Raiders",
     "source": "switch",
     "url": "https://ec.nintendo.com/apps/0400380020056000/US?lang=en-US"
