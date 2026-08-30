@@ -1,6 +1,15 @@
 {
   "games": [
     {
+      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/e3186a8890b84c6a8f9575afed89495f_256",
+      "lastPlayedAt": "2026-08-30T10:58:46-07:00",
+      "lifetimeMinutes": 820,
+      "minutesTotal": 820,
+      "name": "Splatoon Raiders",
+      "source": "switch",
+      "url": "https://ec.nintendo.com/apps/0400380020056000/US?lang=en-US"
+    },
+    {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/c0c6b94ee65d4bc1a839e7baa92f8282_256",
       "lastPlayedAt": "2026-08-30T09:13:21-07:00",
       "lifetimeMinutes": 170,
@@ -8,15 +17,6 @@
       "name": "MLB\u00ae The Show\u2122 26",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/0100aa7024094000/US?lang=en-US"
-    },
-    {
-      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/e3186a8890b84c6a8f9575afed89495f_256",
-      "lastPlayedAt": "2026-08-29T23:26:02-07:00",
-      "lifetimeMinutes": 815,
-      "minutesTotal": 815,
-      "name": "Splatoon Raiders",
-      "source": "switch",
-      "url": "https://ec.nintendo.com/apps/0400380020056000/US?lang=en-US"
     },
     {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/74c014f14e03437a803a879d89920cc1_256",
@@ -37,14 +37,14 @@
       "url": "https://ec.nintendo.com/apps/0100b1f023e08000/US?lang=en-US"
     }
   ],
-  "generatedAt": "2026-08-30T16:13:22Z",
+  "generatedAt": "2026-08-30T17:58:47Z",
   "lastPlayed": {
-    "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/c0c6b94ee65d4bc1a839e7baa92f8282_256",
-    "lastPlayedAt": "2026-08-30T09:13:21-07:00",
-    "lifetimeMinutes": 170,
-    "minutesTotal": 170,
-    "name": "MLB\u00ae The Show\u2122 26",
+    "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/e3186a8890b84c6a8f9575afed89495f_256",
+    "lastPlayedAt": "2026-08-30T10:58:46-07:00",
+    "lifetimeMinutes": 820,
+    "minutesTotal": 820,
+    "name": "Splatoon Raiders",
     "source": "switch",
-    "url": "https://ec.nintendo.com/apps/0100aa7024094000/US?lang=en-US"
+    "url": "https://ec.nintendo.com/apps/0400380020056000/US?lang=en-US"
   }
 }
