@@ -2,9 +2,9 @@
   "games": [
     {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/c0c6b94ee65d4bc1a839e7baa92f8282_256",
-      "lastPlayedAt": "2026-08-30T23:32:34-07:00",
-      "lifetimeMinutes": 245,
-      "minutesTotal": 245,
+      "lastPlayedAt": "2026-08-30T23:47:39-07:00",
+      "lifetimeMinutes": 255,
+      "minutesTotal": 255,
       "name": "MLB\u00ae The Show\u2122 26",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/0100aa7024094000/US?lang=en-US"
@@ -37,12 +37,12 @@
       "url": "https://ec.nintendo.com/apps/0100b1f023e08000/US?lang=en-US"
     }
   ],
-  "generatedAt": "2026-08-31T06:32:35Z",
+  "generatedAt": "2026-08-31T06:47:40Z",
   "lastPlayed": {
     "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/c0c6b94ee65d4bc1a839e7baa92f8282_256",
-    "lastPlayedAt": "2026-08-30T23:32:34-07:00",
-    "lifetimeMinutes": 245,
-    "minutesTotal": 245,
+    "lastPlayedAt": "2026-08-30T23:47:39-07:00",
+    "lifetimeMinutes": 255,
+    "minutesTotal": 255,
     "name": "MLB\u00ae The Show\u2122 26",
     "source": "switch",
     "url": "https://ec.nintendo.com/apps/0100aa7024094000/US?lang=en-US"
