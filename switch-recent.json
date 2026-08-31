@@ -2,9 +2,9 @@
   "games": [
     {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/74c014f14e03437a803a879d89920cc1_256",
-      "lastPlayedAt": "2026-08-31T13:50:55-07:00",
-      "lifetimeMinutes": 111,
-      "minutesTotal": 106,
+      "lastPlayedAt": "2026-08-31T14:06:01-07:00",
+      "lifetimeMinutes": 114,
+      "minutesTotal": 114,
       "name": "ELDEN RING Tarnished Edition",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/0400f5802371e000/US?lang=en-US"
@@ -37,12 +37,12 @@
       "url": "https://ec.nintendo.com/apps/0100b1f023e08000/US?lang=en-US"
     }
   ],
-  "generatedAt": "2026-08-31T20:50:57Z",
+  "generatedAt": "2026-08-31T21:06:02Z",
   "lastPlayed": {
     "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/74c014f14e03437a803a879d89920cc1_256",
-    "lastPlayedAt": "2026-08-31T13:50:55-07:00",
-    "lifetimeMinutes": 111,
-    "minutesTotal": 106,
+    "lastPlayedAt": "2026-08-31T14:06:01-07:00",
+    "lifetimeMinutes": 114,
+    "minutesTotal": 114,
     "name": "ELDEN RING Tarnished Edition",
     "source": "switch",
     "url": "https://ec.nintendo.com/apps/0400f5802371e000/US?lang=en-US"
