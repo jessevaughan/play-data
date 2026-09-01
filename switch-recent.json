@@ -2,12 +2,21 @@
   "games": [
     {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/b28d9a97feae4bb0a18b3d41a28d25ef_256",
-      "lastPlayedAt": "2026-08-31T23:23:30-07:00",
-      "lifetimeMinutes": 90,
-      "minutesTotal": 90,
+      "lastPlayedAt": "2026-09-01T15:43:48-07:00",
+      "lifetimeMinutes": 100,
+      "minutesTotal": 100,
       "name": "SnowRunner",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/0400b3e026c64000/US?lang=en-US"
+    },
+    {
+      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/d86e452a62d3426da2d16a79f73120a7_256",
+      "lastPlayedAt": "2026-09-01T15:43:48-07:00",
+      "lifetimeMinutes": 28,
+      "minutesTotal": 28,
+      "name": "Rhythm Heaven Groove",
+      "source": "switch",
+      "url": "https://ec.nintendo.com/apps/0100d9f01d474000/US?lang=en-US"
     },
     {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/7f9333e00fef40f884d103bb4fea5c36_256",
@@ -26,23 +35,14 @@
       "name": "The Immortal John Triptych",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/04005a40277e8000/US?lang=en-US"
-    },
-    {
-      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/74c014f14e03437a803a879d89920cc1_256",
-      "lastPlayedAt": "2026-08-31T15:06:17-07:00",
-      "lifetimeMinutes": 119,
-      "minutesTotal": 119,
-      "name": "ELDEN RING Tarnished Edition",
-      "source": "switch",
-      "url": "https://ec.nintendo.com/apps/0400f5802371e000/US?lang=en-US"
     }
   ],
-  "generatedAt": "2026-09-01T17:57:44Z",
+  "generatedAt": "2026-09-01T22:43:50Z",
   "lastPlayed": {
     "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/b28d9a97feae4bb0a18b3d41a28d25ef_256",
-    "lastPlayedAt": "2026-08-31T23:23:30-07:00",
-    "lifetimeMinutes": 90,
-    "minutesTotal": 90,
+    "lastPlayedAt": "2026-09-01T15:43:48-07:00",
+    "lifetimeMinutes": 100,
+    "minutesTotal": 100,
     "name": "SnowRunner",
     "source": "switch",
     "url": "https://ec.nintendo.com/apps/0400b3e026c64000/US?lang=en-US"
