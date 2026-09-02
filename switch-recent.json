@@ -2,9 +2,9 @@
   "games": [
     {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/d86e452a62d3426da2d16a79f73120a7_256",
-      "lastPlayedAt": "2026-09-01T21:00:12-07:00",
-      "lifetimeMinutes": 40,
-      "minutesTotal": 40,
+      "lastPlayedAt": "2026-09-01T21:15:17-07:00",
+      "lifetimeMinutes": 45,
+      "minutesTotal": 45,
       "name": "Rhythm Heaven Groove",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/0100d9f01d474000/US?lang=en-US"
@@ -37,12 +37,12 @@
       "url": "https://ec.nintendo.com/apps/04005a40277e8000/US?lang=en-US"
     }
   ],
-  "generatedAt": "2026-09-02T04:00:13Z",
+  "generatedAt": "2026-09-02T04:15:18Z",
   "lastPlayed": {
     "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/d86e452a62d3426da2d16a79f73120a7_256",
-    "lastPlayedAt": "2026-09-01T21:00:12-07:00",
-    "lifetimeMinutes": 40,
-    "minutesTotal": 40,
+    "lastPlayedAt": "2026-09-01T21:15:17-07:00",
+    "lifetimeMinutes": 45,
+    "minutesTotal": 45,
     "name": "Rhythm Heaven Groove",
     "source": "switch",
     "url": "https://ec.nintendo.com/apps/0100d9f01d474000/US?lang=en-US"
