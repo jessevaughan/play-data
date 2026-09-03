@@ -1,10 +1,19 @@
 {
   "games": [
     {
+      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/74c014f14e03437a803a879d89920cc1_256",
+      "lastPlayedAt": "2026-09-02T23:21:41-07:00",
+      "lifetimeMinutes": 129,
+      "minutesTotal": 121,
+      "name": "ELDEN RING Tarnished Edition",
+      "source": "switch",
+      "url": "https://ec.nintendo.com/apps/0400f5802371e000/US?lang=en-US"
+    },
+    {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/1a91486f09304550b4b02b9414fe0fbe_256",
-      "lastPlayedAt": "2026-09-02T12:49:13-07:00",
+      "lastPlayedAt": "2026-09-02T23:21:41-07:00",
       "lifetimeMinutes": null,
-      "minutesTotal": 30,
+      "minutesTotal": 40,
       "name": "GRID\u2122 Legends: Deluxe Edition",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/04000a8024aee000/US?lang=en-US"
@@ -26,25 +35,16 @@
       "name": "Pok\u00e9mon Pokopia",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/0400a3a01ee4c000/US?lang=en-US"
-    },
-    {
-      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/c13cedfda6ba4faf93886165709a5d74_256",
-      "lastPlayedAt": "2026-09-01T21:30:22-07:00",
-      "lifetimeMinutes": 61,
-      "minutesTotal": 35,
-      "name": "Is This Seat Taken?",
-      "source": "switch",
-      "url": "https://ec.nintendo.com/apps/0100b1f023e08000/US?lang=en-US"
     }
   ],
-  "generatedAt": "2026-09-02T19:49:14Z",
+  "generatedAt": "2026-09-03T06:21:43Z",
   "lastPlayed": {
-    "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/1a91486f09304550b4b02b9414fe0fbe_256",
-    "lastPlayedAt": "2026-09-02T12:49:13-07:00",
-    "lifetimeMinutes": null,
-    "minutesTotal": 30,
-    "name": "GRID\u2122 Legends: Deluxe Edition",
+    "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/74c014f14e03437a803a879d89920cc1_256",
+    "lastPlayedAt": "2026-09-02T23:21:41-07:00",
+    "lifetimeMinutes": 129,
+    "minutesTotal": 121,
+    "name": "ELDEN RING Tarnished Edition",
     "source": "switch",
-    "url": "https://ec.nintendo.com/apps/04000a8024aee000/US?lang=en-US"
+    "url": "https://ec.nintendo.com/apps/0400f5802371e000/US?lang=en-US"
   }
 }
