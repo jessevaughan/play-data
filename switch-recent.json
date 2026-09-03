@@ -1,6 +1,15 @@
 {
   "games": [
     {
+      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/7ca31d64b8514b97ac1bf1ec699de532_256",
+      "lastPlayedAt": "2026-09-03T13:25:08-07:00",
+      "lifetimeMinutes": 111,
+      "minutesTotal": 10,
+      "name": "Planet of Lana 2 \u2013 Nintendo Switch 2 Edition",
+      "source": "switch",
+      "url": "https://ec.nintendo.com/apps/010015401f89e000/US?lang=en-US&acdIndex=1"
+    },
+    {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/74c014f14e03437a803a879d89920cc1_256",
       "lastPlayedAt": "2026-09-02T23:51:53-07:00",
       "lifetimeMinutes": 144,
@@ -19,15 +28,6 @@
       "url": "https://ec.nintendo.com/apps/04000a8024aee000/US?lang=en-US"
     },
     {
-      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/7ca31d64b8514b97ac1bf1ec699de532_256",
-      "lastPlayedAt": "2026-09-01T22:00:31-07:00",
-      "lifetimeMinutes": 111,
-      "minutesTotal": 5,
-      "name": "Planet of Lana 2 \u2013 Nintendo Switch 2 Edition",
-      "source": "switch",
-      "url": "https://ec.nintendo.com/apps/010015401f89e000/US?lang=en-US&acdIndex=1"
-    },
-    {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/706a69ffb2ed4a59aae038a1aa508d16_256",
       "lastPlayedAt": "2026-09-01T22:00:31-07:00",
       "lifetimeMinutes": 948,
@@ -37,14 +37,14 @@
       "url": "https://ec.nintendo.com/apps/0400a3a01ee4c000/US?lang=en-US"
     }
   ],
-  "generatedAt": "2026-09-03T12:53:23Z",
+  "generatedAt": "2026-09-03T20:25:09Z",
   "lastPlayed": {
-    "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/74c014f14e03437a803a879d89920cc1_256",
-    "lastPlayedAt": "2026-09-02T23:51:53-07:00",
-    "lifetimeMinutes": 144,
-    "minutesTotal": 144,
-    "name": "ELDEN RING Tarnished Edition",
+    "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/7ca31d64b8514b97ac1bf1ec699de532_256",
+    "lastPlayedAt": "2026-09-03T13:25:08-07:00",
+    "lifetimeMinutes": 111,
+    "minutesTotal": 10,
+    "name": "Planet of Lana 2 \u2013 Nintendo Switch 2 Edition",
     "source": "switch",
-    "url": "https://ec.nintendo.com/apps/0400f5802371e000/US?lang=en-US"
+    "url": "https://ec.nintendo.com/apps/010015401f89e000/US?lang=en-US&acdIndex=1"
   }
 }
