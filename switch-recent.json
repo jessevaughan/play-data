@@ -2,9 +2,9 @@
   "games": [
     {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/7ca31d64b8514b97ac1bf1ec699de532_256",
-      "lastPlayedAt": "2026-09-03T23:12:24-07:00",
+      "lastPlayedAt": "2026-09-03T23:27:29-07:00",
       "lifetimeMinutes": 111,
-      "minutesTotal": 20,
+      "minutesTotal": 30,
       "name": "Planet of Lana 2 \u2013 Nintendo Switch 2 Edition",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/010015401f89e000/US?lang=en-US&acdIndex=1"
@@ -37,12 +37,12 @@
       "url": "https://ec.nintendo.com/apps/0400a3a01ee4c000/US?lang=en-US"
     }
   ],
-  "generatedAt": "2026-09-04T06:12:25Z",
+  "generatedAt": "2026-09-04T06:27:30Z",
   "lastPlayed": {
     "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/7ca31d64b8514b97ac1bf1ec699de532_256",
-    "lastPlayedAt": "2026-09-03T23:12:24-07:00",
+    "lastPlayedAt": "2026-09-03T23:27:29-07:00",
     "lifetimeMinutes": 111,
-    "minutesTotal": 20,
+    "minutesTotal": 30,
     "name": "Planet of Lana 2 \u2013 Nintendo Switch 2 Edition",
     "source": "switch",
     "url": "https://ec.nintendo.com/apps/010015401f89e000/US?lang=en-US&acdIndex=1"
