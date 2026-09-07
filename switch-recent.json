@@ -1,6 +1,24 @@
 {
   "games": [
     {
+      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/1a91486f09304550b4b02b9414fe0fbe_256",
+      "lastPlayedAt": "2026-09-06T22:44:02-07:00",
+      "lifetimeMinutes": null,
+      "minutesTotal": 50,
+      "name": "GRID\u2122 Legends: Deluxe Edition",
+      "source": "switch",
+      "url": "https://ec.nintendo.com/apps/04000a8024aee000/US?lang=en-US"
+    },
+    {
+      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/1d1d71a74f2d41eb93de2fbeeb20c171_256",
+      "lastPlayedAt": "2026-09-06T22:44:02-07:00",
+      "lifetimeMinutes": null,
+      "minutesTotal": 4,
+      "name": "Disgaea 5 Complete",
+      "source": "switch",
+      "url": "https://ec.nintendo.com/apps/01005700031ae000/US?lang=en-US"
+    },
+    {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/7f9333e00fef40f884d103bb4fea5c36_256",
       "lastPlayedAt": "2026-09-06T20:58:38-07:00",
       "lifetimeMinutes": 480,
@@ -10,15 +28,6 @@
       "url": "https://ec.nintendo.com/apps/0100aa7024094000/US?lang=en-US"
     },
     {
-      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/1a91486f09304550b4b02b9414fe0fbe_256",
-      "lastPlayedAt": "2026-09-06T20:58:38-07:00",
-      "lifetimeMinutes": null,
-      "minutesTotal": 44,
-      "name": "GRID\u2122 Legends: Deluxe Edition",
-      "source": "switch",
-      "url": "https://ec.nintendo.com/apps/04000a8024aee000/US?lang=en-US"
-    },
-    {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/c13cedfda6ba4faf93886165709a5d74_256",
       "lastPlayedAt": "2026-09-06T10:11:10-07:00",
       "lifetimeMinutes": 325,
@@ -26,25 +35,16 @@
       "name": "Is This Seat Taken?",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/0100b1f023e08000/US?lang=en-US"
-    },
-    {
-      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/7ca31d64b8514b97ac1bf1ec699de532_256",
-      "lastPlayedAt": "2026-09-04T15:01:10-07:00",
-      "lifetimeMinutes": 111,
-      "minutesTotal": 45,
-      "name": "Planet of Lana 2 \u2013 Nintendo Switch 2 Edition",
-      "source": "switch",
-      "url": "https://ec.nintendo.com/apps/010015401f89e000/US?lang=en-US&acdIndex=1"
     }
   ],
-  "generatedAt": "2026-09-07T03:58:39Z",
+  "generatedAt": "2026-09-07T05:44:03Z",
   "lastPlayed": {
-    "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/7f9333e00fef40f884d103bb4fea5c36_256",
-    "lastPlayedAt": "2026-09-06T20:58:38-07:00",
-    "lifetimeMinutes": 480,
-    "minutesTotal": 480,
-    "name": "MLB\u00ae The Show\u2122 26",
+    "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/1a91486f09304550b4b02b9414fe0fbe_256",
+    "lastPlayedAt": "2026-09-06T22:44:02-07:00",
+    "lifetimeMinutes": null,
+    "minutesTotal": 50,
+    "name": "GRID\u2122 Legends: Deluxe Edition",
     "source": "switch",
-    "url": "https://ec.nintendo.com/apps/0100aa7024094000/US?lang=en-US"
+    "url": "https://ec.nintendo.com/apps/04000a8024aee000/US?lang=en-US"
   }
 }
