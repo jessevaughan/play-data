@@ -2,9 +2,9 @@
   "games": [
     {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/20e8e23d1dc340c3ab2418f6a80b3e9b_256",
-      "lastPlayedAt": "2026-09-10T09:20:13-07:00",
+      "lastPlayedAt": "2026-09-10T09:35:18-07:00",
       "lifetimeMinutes": null,
-      "minutesTotal": 225,
+      "minutesTotal": 235,
       "name": "The Immortal John Triptych",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/04005a40277e8000/US?lang=en-US"
@@ -37,12 +37,12 @@
       "url": "https://ec.nintendo.com/apps/04000a8024aee000/US?lang=en-US"
     }
   ],
-  "generatedAt": "2026-09-10T16:20:14Z",
+  "generatedAt": "2026-09-10T16:35:20Z",
   "lastPlayed": {
     "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/20e8e23d1dc340c3ab2418f6a80b3e9b_256",
-    "lastPlayedAt": "2026-09-10T09:20:13-07:00",
+    "lastPlayedAt": "2026-09-10T09:35:18-07:00",
     "lifetimeMinutes": null,
-    "minutesTotal": 225,
+    "minutesTotal": 235,
     "name": "The Immortal John Triptych",
     "source": "switch",
     "url": "https://ec.nintendo.com/apps/04005a40277e8000/US?lang=en-US"
