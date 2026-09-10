@@ -2,9 +2,9 @@
   "games": [
     {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/1d1d71a74f2d41eb93de2fbeeb20c171_256",
-      "lastPlayedAt": "2026-09-09T23:02:46-07:00",
+      "lastPlayedAt": "2026-09-09T23:17:52-07:00",
       "lifetimeMinutes": null,
-      "minutesTotal": 144,
+      "minutesTotal": 150,
       "name": "Disgaea 5 Complete",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/01005700031ae000/US?lang=en-US"
@@ -37,12 +37,12 @@
       "url": "https://ec.nintendo.com/apps/04000a8024aee000/US?lang=en-US"
     }
   ],
-  "generatedAt": "2026-09-10T06:02:48Z",
+  "generatedAt": "2026-09-10T06:17:53Z",
   "lastPlayed": {
     "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/1d1d71a74f2d41eb93de2fbeeb20c171_256",
-    "lastPlayedAt": "2026-09-09T23:02:46-07:00",
+    "lastPlayedAt": "2026-09-09T23:17:52-07:00",
     "lifetimeMinutes": null,
-    "minutesTotal": 144,
+    "minutesTotal": 150,
     "name": "Disgaea 5 Complete",
     "source": "switch",
     "url": "https://ec.nintendo.com/apps/01005700031ae000/US?lang=en-US"
