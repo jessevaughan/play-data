@@ -2,9 +2,9 @@
   "games": [
     {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/be0ac2492455453e8d4aeb6d883892bc_256",
-      "lastPlayedAt": "2026-09-10T23:38:36-07:00",
+      "lastPlayedAt": "2026-09-10T23:53:41-07:00",
       "lifetimeMinutes": null,
-      "minutesTotal": 45,
+      "minutesTotal": 55,
       "name": "EA Sports Madden NFL 27",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/040074f0253b8000/US?lang=en-US"
@@ -37,12 +37,12 @@
       "url": "https://ec.nintendo.com/apps/0100aa7024094000/US?lang=en-US"
     }
   ],
-  "generatedAt": "2026-09-11T06:38:38Z",
+  "generatedAt": "2026-09-11T06:53:43Z",
   "lastPlayed": {
     "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/be0ac2492455453e8d4aeb6d883892bc_256",
-    "lastPlayedAt": "2026-09-10T23:38:36-07:00",
+    "lastPlayedAt": "2026-09-10T23:53:41-07:00",
     "lifetimeMinutes": null,
-    "minutesTotal": 45,
+    "minutesTotal": 55,
     "name": "EA Sports Madden NFL 27",
     "source": "switch",
     "url": "https://ec.nintendo.com/apps/040074f0253b8000/US?lang=en-US"
