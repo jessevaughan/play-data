@@ -2,12 +2,21 @@
   "games": [
     {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/5a295c0bc2d148e9a73a1c047350b4e7_256",
-      "lastPlayedAt": "2026-09-15T16:24:27-07:00",
-      "lifetimeMinutes": 740,
-      "minutesTotal": 740,
+      "lastPlayedAt": "2026-09-15T16:39:32-07:00",
+      "lifetimeMinutes": 745,
+      "minutesTotal": 745,
       "name": "MLB\u00ae The Show\u2122 26",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/0100aa7024094000/US?lang=en-US"
+    },
+    {
+      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/1d1d71a74f2d41eb93de2fbeeb20c171_256",
+      "lastPlayedAt": "2026-09-15T16:39:32-07:00",
+      "lifetimeMinutes": 220,
+      "minutesTotal": 220,
+      "name": "Disgaea 5 Complete",
+      "source": "switch",
+      "url": "https://ec.nintendo.com/apps/01005700031ae000/US?lang=en-US"
     },
     {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/be0ac2492455453e8d4aeb6d883892bc_256",
@@ -26,23 +35,14 @@
       "name": "Planet of Lana 2 \u2013 Nintendo Switch 2 Edition",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/010015401f89e000/US?lang=en-US&acdIndex=1"
-    },
-    {
-      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/1d1d71a74f2d41eb93de2fbeeb20c171_256",
-      "lastPlayedAt": "2026-09-12T22:34:14-07:00",
-      "lifetimeMinutes": 215,
-      "minutesTotal": 215,
-      "name": "Disgaea 5 Complete",
-      "source": "switch",
-      "url": "https://ec.nintendo.com/apps/01005700031ae000/US?lang=en-US"
     }
   ],
-  "generatedAt": "2026-09-15T23:24:28Z",
+  "generatedAt": "2026-09-15T23:39:33Z",
   "lastPlayed": {
     "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/5a295c0bc2d148e9a73a1c047350b4e7_256",
-    "lastPlayedAt": "2026-09-15T16:24:27-07:00",
-    "lifetimeMinutes": 740,
-    "minutesTotal": 740,
+    "lastPlayedAt": "2026-09-15T16:39:32-07:00",
+    "lifetimeMinutes": 745,
+    "minutesTotal": 745,
     "name": "MLB\u00ae The Show\u2122 26",
     "source": "switch",
     "url": "https://ec.nintendo.com/apps/0100aa7024094000/US?lang=en-US"
