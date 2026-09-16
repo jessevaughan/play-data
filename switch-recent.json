@@ -1,6 +1,15 @@
 {
   "games": [
     {
+      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/1d1d71a74f2d41eb93de2fbeeb20c171_256",
+      "lastPlayedAt": "2026-09-15T17:24:44-07:00",
+      "lifetimeMinutes": 230,
+      "minutesTotal": 230,
+      "name": "Disgaea 5 Complete",
+      "source": "switch",
+      "url": "https://ec.nintendo.com/apps/01005700031ae000/US?lang=en-US"
+    },
+    {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/5a295c0bc2d148e9a73a1c047350b4e7_256",
       "lastPlayedAt": "2026-09-15T16:39:32-07:00",
       "lifetimeMinutes": 745,
@@ -8,15 +17,6 @@
       "name": "MLB\u00ae The Show\u2122 26",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/0100aa7024094000/US?lang=en-US"
-    },
-    {
-      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/1d1d71a74f2d41eb93de2fbeeb20c171_256",
-      "lastPlayedAt": "2026-09-15T16:39:32-07:00",
-      "lifetimeMinutes": 220,
-      "minutesTotal": 220,
-      "name": "Disgaea 5 Complete",
-      "source": "switch",
-      "url": "https://ec.nintendo.com/apps/01005700031ae000/US?lang=en-US"
     },
     {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/be0ac2492455453e8d4aeb6d883892bc_256",
@@ -37,14 +37,14 @@
       "url": "https://ec.nintendo.com/apps/010015401f89e000/US?lang=en-US&acdIndex=1"
     }
   ],
-  "generatedAt": "2026-09-15T23:39:33Z",
+  "generatedAt": "2026-09-16T00:24:45Z",
   "lastPlayed": {
-    "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/5a295c0bc2d148e9a73a1c047350b4e7_256",
-    "lastPlayedAt": "2026-09-15T16:39:32-07:00",
-    "lifetimeMinutes": 745,
-    "minutesTotal": 745,
-    "name": "MLB\u00ae The Show\u2122 26",
+    "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/1d1d71a74f2d41eb93de2fbeeb20c171_256",
+    "lastPlayedAt": "2026-09-15T17:24:44-07:00",
+    "lifetimeMinutes": 230,
+    "minutesTotal": 230,
+    "name": "Disgaea 5 Complete",
     "source": "switch",
-    "url": "https://ec.nintendo.com/apps/0100aa7024094000/US?lang=en-US"
+    "url": "https://ec.nintendo.com/apps/01005700031ae000/US?lang=en-US"
   }
 }
