@@ -1,6 +1,15 @@
 {
   "games": [
     {
+      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/b2c813c95ba8492a8cc15dc614dc04cc_256",
+      "lastPlayedAt": "2026-09-18T23:12:39-07:00",
+      "lifetimeMinutes": null,
+      "minutesTotal": 4,
+      "name": "PRAGMATA",
+      "source": "switch",
+      "url": "https://ec.nintendo.com/apps/0400c76024710000/US?lang=en-US"
+    },
+    {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/5a295c0bc2d148e9a73a1c047350b4e7_256",
       "lastPlayedAt": "2026-09-18T22:42:30-07:00",
       "lifetimeMinutes": 840,
@@ -26,25 +35,16 @@
       "name": "EA Sports Madden NFL 27",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/040074f0253b8000/US?lang=en-US"
-    },
-    {
-      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/7ca31d64b8514b97ac1bf1ec699de532_256",
-      "lastPlayedAt": "2026-09-14T22:29:43-07:00",
-      "lifetimeMinutes": 163,
-      "minutesTotal": 50,
-      "name": "Planet of Lana 2 \u2013 Nintendo Switch 2 Edition",
-      "source": "switch",
-      "url": "https://ec.nintendo.com/apps/010015401f89e000/US?lang=en-US&acdIndex=1"
     }
   ],
-  "generatedAt": "2026-09-19T05:42:32Z",
+  "generatedAt": "2026-09-19T06:12:40Z",
   "lastPlayed": {
-    "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/5a295c0bc2d148e9a73a1c047350b4e7_256",
-    "lastPlayedAt": "2026-09-18T22:42:30-07:00",
-    "lifetimeMinutes": 840,
-    "minutesTotal": 840,
-    "name": "MLB\u00ae The Show\u2122 26",
+    "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/b2c813c95ba8492a8cc15dc614dc04cc_256",
+    "lastPlayedAt": "2026-09-18T23:12:39-07:00",
+    "lifetimeMinutes": null,
+    "minutesTotal": 4,
+    "name": "PRAGMATA",
     "source": "switch",
-    "url": "https://ec.nintendo.com/apps/0100aa7024094000/US?lang=en-US"
+    "url": "https://ec.nintendo.com/apps/0400c76024710000/US?lang=en-US"
   }
 }
