@@ -26,18 +26,9 @@
       "name": "Disgaea 5 Complete",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/01005700031ae000/US?lang=en-US"
-    },
-    {
-      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/3bb8ae576a354ea7b14f5ec6d13234d1_256",
-      "lastPlayedAt": "2026-09-15T13:38:43-07:00",
-      "lifetimeMinutes": 155,
-      "minutesTotal": 155,
-      "name": "EA Sports Madden NFL 27",
-      "source": "switch",
-      "url": "https://ec.nintendo.com/apps/040074f0253b8000/US?lang=en-US"
     }
   ],
-  "generatedAt": "2026-09-22T05:44:14Z",
+  "generatedAt": "2026-09-22T07:14:35Z",
   "lastPlayed": {
     "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/b2c813c95ba8492a8cc15dc614dc04cc_256",
     "lastPlayedAt": "2026-09-21T22:44:13-07:00",
