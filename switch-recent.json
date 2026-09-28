@@ -2,9 +2,9 @@
   "games": [
     {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/1a91486f09304550b4b02b9414fe0fbe_256",
-      "lastPlayedAt": "2026-09-26T23:42:00-07:00",
-      "lifetimeMinutes": 70,
-      "minutesTotal": 70,
+      "lastPlayedAt": "2026-09-27T23:02:19-07:00",
+      "lifetimeMinutes": 75,
+      "minutesTotal": 75,
       "name": "GRID\u2122 Legends: Deluxe Edition",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/04000a8024aee000/US?lang=en-US"
@@ -28,12 +28,12 @@
       "url": "https://ec.nintendo.com/apps/0100aa7024094000/US?lang=en-US"
     }
   ],
-  "generatedAt": "2026-09-27T12:58:27Z",
+  "generatedAt": "2026-09-28T06:02:21Z",
   "lastPlayed": {
     "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/1a91486f09304550b4b02b9414fe0fbe_256",
-    "lastPlayedAt": "2026-09-26T23:42:00-07:00",
-    "lifetimeMinutes": 70,
-    "minutesTotal": 70,
+    "lastPlayedAt": "2026-09-27T23:02:19-07:00",
+    "lifetimeMinutes": 75,
+    "minutesTotal": 75,
     "name": "GRID\u2122 Legends: Deluxe Edition",
     "source": "switch",
     "url": "https://ec.nintendo.com/apps/04000a8024aee000/US?lang=en-US"
