@@ -2,9 +2,9 @@
   "games": [
     {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/b2c813c95ba8492a8cc15dc614dc04cc_256",
-      "lastPlayedAt": "2026-09-30T20:33:37-07:00",
-      "lifetimeMinutes": 340,
-      "minutesTotal": 340,
+      "lastPlayedAt": "2026-09-30T20:48:42-07:00",
+      "lifetimeMinutes": 350,
+      "minutesTotal": 350,
       "name": "PRAGMATA",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/0400c76024710000/US?lang=en-US"
@@ -28,12 +28,12 @@
       "url": "https://ec.nintendo.com/apps/04000a8024aee000/US?lang=en-US"
     }
   ],
-  "generatedAt": "2026-10-01T03:33:38Z",
+  "generatedAt": "2026-10-01T03:48:43Z",
   "lastPlayed": {
     "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/b2c813c95ba8492a8cc15dc614dc04cc_256",
-    "lastPlayedAt": "2026-09-30T20:33:37-07:00",
-    "lifetimeMinutes": 340,
-    "minutesTotal": 340,
+    "lastPlayedAt": "2026-09-30T20:48:42-07:00",
+    "lifetimeMinutes": 350,
+    "minutesTotal": 350,
     "name": "PRAGMATA",
     "source": "switch",
     "url": "https://ec.nintendo.com/apps/0400c76024710000/US?lang=en-US"
