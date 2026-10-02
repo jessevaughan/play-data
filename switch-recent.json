@@ -1,6 +1,15 @@
 {
   "games": [
     {
+      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/b2c813c95ba8492a8cc15dc614dc04cc_256",
+      "lastPlayedAt": "2026-10-01T21:54:47-07:00",
+      "lifetimeMinutes": 430,
+      "minutesTotal": 430,
+      "name": "PRAGMATA",
+      "source": "switch",
+      "url": "https://ec.nintendo.com/apps/0400c76024710000/US?lang=en-US"
+    },
+    {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/6c2e823a571b41a1af07fa2f5e718915_256",
       "lastPlayedAt": "2026-10-01T21:09:35-07:00",
       "lifetimeMinutes": 1215,
@@ -8,15 +17,6 @@
       "name": "MLB\u00ae The Show\u2122 26",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/0100aa7024094000/US?lang=en-US"
-    },
-    {
-      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/b2c813c95ba8492a8cc15dc614dc04cc_256",
-      "lastPlayedAt": "2026-10-01T21:09:35-07:00",
-      "lifetimeMinutes": 425,
-      "minutesTotal": 425,
-      "name": "PRAGMATA",
-      "source": "switch",
-      "url": "https://ec.nintendo.com/apps/0400c76024710000/US?lang=en-US"
     },
     {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/1a91486f09304550b4b02b9414fe0fbe_256",
@@ -28,14 +28,14 @@
       "url": "https://ec.nintendo.com/apps/04000a8024aee000/US?lang=en-US"
     }
   ],
-  "generatedAt": "2026-10-02T04:09:37Z",
+  "generatedAt": "2026-10-02T04:54:48Z",
   "lastPlayed": {
-    "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/6c2e823a571b41a1af07fa2f5e718915_256",
-    "lastPlayedAt": "2026-10-01T21:09:35-07:00",
-    "lifetimeMinutes": 1215,
-    "minutesTotal": 1215,
-    "name": "MLB\u00ae The Show\u2122 26",
+    "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/b2c813c95ba8492a8cc15dc614dc04cc_256",
+    "lastPlayedAt": "2026-10-01T21:54:47-07:00",
+    "lifetimeMinutes": 430,
+    "minutesTotal": 430,
+    "name": "PRAGMATA",
     "source": "switch",
-    "url": "https://ec.nintendo.com/apps/0100aa7024094000/US?lang=en-US"
+    "url": "https://ec.nintendo.com/apps/0400c76024710000/US?lang=en-US"
   }
 }
