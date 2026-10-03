@@ -2,9 +2,9 @@
   "games": [
     {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/cfc1a73f97364b81ac377535c6f0956f_256",
-      "lastPlayedAt": "2026-10-03T15:34:20-07:00",
+      "lastPlayedAt": "2026-10-03T15:49:26-07:00",
       "lifetimeMinutes": null,
-      "minutesTotal": 70,
+      "minutesTotal": 90,
       "name": "Horripilant",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/010049a027ffa000/US?lang=en-US"
@@ -37,12 +37,12 @@
       "url": "https://ec.nintendo.com/apps/04000a8024aee000/US?lang=en-US"
     }
   ],
-  "generatedAt": "2026-10-03T22:34:22Z",
+  "generatedAt": "2026-10-03T22:49:27Z",
   "lastPlayed": {
     "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/cfc1a73f97364b81ac377535c6f0956f_256",
-    "lastPlayedAt": "2026-10-03T15:34:20-07:00",
+    "lastPlayedAt": "2026-10-03T15:49:26-07:00",
     "lifetimeMinutes": null,
-    "minutesTotal": 70,
+    "minutesTotal": 90,
     "name": "Horripilant",
     "source": "switch",
     "url": "https://ec.nintendo.com/apps/010049a027ffa000/US?lang=en-US"
