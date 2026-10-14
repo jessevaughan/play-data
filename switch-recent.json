@@ -1,6 +1,15 @@
 {
   "games": [
     {
+      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/6c2e823a571b41a1af07fa2f5e718915_256",
+      "lastPlayedAt": "2026-10-13T23:46:09-07:00",
+      "lifetimeMinutes": 1329,
+      "minutesTotal": 1308,
+      "name": "MLB\u00ae The Show\u2122 26",
+      "source": "switch",
+      "url": "https://ec.nintendo.com/apps/0100aa7024094000/US?lang=en-US"
+    },
+    {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/b2c813c95ba8492a8cc15dc614dc04cc_256",
       "lastPlayedAt": "2026-10-13T07:12:10-07:00",
       "lifetimeMinutes": 514,
@@ -8,25 +17,16 @@
       "name": "PRAGMATA",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/0400c76024710000/US?lang=en-US"
-    },
-    {
-      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/6c2e823a571b41a1af07fa2f5e718915_256",
-      "lastPlayedAt": "2026-10-13T06:26:54-07:00",
-      "lifetimeMinutes": 1329,
-      "minutesTotal": 1303,
-      "name": "MLB\u00ae The Show\u2122 26",
-      "source": "switch",
-      "url": "https://ec.nintendo.com/apps/0100aa7024094000/US?lang=en-US"
     }
   ],
-  "generatedAt": "2026-10-13T14:12:12Z",
+  "generatedAt": "2026-10-14T06:46:11Z",
   "lastPlayed": {
-    "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/b2c813c95ba8492a8cc15dc614dc04cc_256",
-    "lastPlayedAt": "2026-10-13T07:12:10-07:00",
-    "lifetimeMinutes": 514,
-    "minutesTotal": 490,
-    "name": "PRAGMATA",
+    "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/6c2e823a571b41a1af07fa2f5e718915_256",
+    "lastPlayedAt": "2026-10-13T23:46:09-07:00",
+    "lifetimeMinutes": 1329,
+    "minutesTotal": 1308,
+    "name": "MLB\u00ae The Show\u2122 26",
     "source": "switch",
-    "url": "https://ec.nintendo.com/apps/0400c76024710000/US?lang=en-US"
+    "url": "https://ec.nintendo.com/apps/0100aa7024094000/US?lang=en-US"
   }
 }
