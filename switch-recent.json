@@ -1,6 +1,15 @@
 {
   "games": [
     {
+      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/a92a97fdd5d94679bac6774b55a4949f_256",
+      "lastPlayedAt": "2026-10-25T22:59:49-07:00",
+      "lifetimeMinutes": null,
+      "minutesTotal": 20,
+      "name": "KUUKIYOMI3: Consider It",
+      "source": "switch",
+      "url": "https://ec.nintendo.com/apps/01001ac013dec000/US?lang=en-US"
+    },
+    {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/b2c813c95ba8492a8cc15dc614dc04cc_256",
       "lastPlayedAt": "2026-10-25T22:44:44-07:00",
       "lifetimeMinutes": 514,
@@ -8,15 +17,6 @@
       "name": "PRAGMATA",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/0400c76024710000/US?lang=en-US"
-    },
-    {
-      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/a92a97fdd5d94679bac6774b55a4949f_256",
-      "lastPlayedAt": "2026-10-25T22:44:44-07:00",
-      "lifetimeMinutes": null,
-      "minutesTotal": 2,
-      "name": "KUUKIYOMI3: Consider It",
-      "source": "switch",
-      "url": "https://ec.nintendo.com/apps/01001ac013dec000/US?lang=en-US"
     },
     {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/fc42ba7962f44af4b258f8e8d9c79780_256",
@@ -28,14 +28,14 @@
       "url": "https://ec.nintendo.com/apps/0100aa7024094000/US?lang=en-US"
     }
   ],
-  "generatedAt": "2026-10-26T05:44:45Z",
+  "generatedAt": "2026-10-26T05:59:50Z",
   "lastPlayed": {
-    "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/b2c813c95ba8492a8cc15dc614dc04cc_256",
-    "lastPlayedAt": "2026-10-25T22:44:44-07:00",
-    "lifetimeMinutes": 514,
-    "minutesTotal": 493,
-    "name": "PRAGMATA",
+    "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/a92a97fdd5d94679bac6774b55a4949f_256",
+    "lastPlayedAt": "2026-10-25T22:59:49-07:00",
+    "lifetimeMinutes": null,
+    "minutesTotal": 20,
+    "name": "KUUKIYOMI3: Consider It",
     "source": "switch",
-    "url": "https://ec.nintendo.com/apps/0400c76024710000/US?lang=en-US"
+    "url": "https://ec.nintendo.com/apps/01001ac013dec000/US?lang=en-US"
   }
 }
