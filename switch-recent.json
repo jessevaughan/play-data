@@ -2,12 +2,21 @@
   "games": [
     {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/a92a97fdd5d94679bac6774b55a4949f_256",
-      "lastPlayedAt": "2026-10-25T23:14:54-07:00",
+      "lastPlayedAt": "2026-10-25T23:30:00-07:00",
       "lifetimeMinutes": null,
-      "minutesTotal": 30,
+      "minutesTotal": 40,
       "name": "KUUKIYOMI3: Consider It",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/01001ac013dec000/US?lang=en-US"
+    },
+    {
+      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/cef81b66bfac4e3d9602c765402f6462_256",
+      "lastPlayedAt": "2026-10-25T23:30:00-07:00",
+      "lifetimeMinutes": null,
+      "minutesTotal": 10,
+      "name": "Tape to Tape",
+      "source": "switch",
+      "url": "https://ec.nintendo.com/apps/0100d830204e0000/US?lang=en-US"
     },
     {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/b2c813c95ba8492a8cc15dc614dc04cc_256",
@@ -28,12 +37,12 @@
       "url": "https://ec.nintendo.com/apps/0100aa7024094000/US?lang=en-US"
     }
   ],
-  "generatedAt": "2026-10-26T06:14:56Z",
+  "generatedAt": "2026-10-26T06:30:01Z",
   "lastPlayed": {
     "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/a92a97fdd5d94679bac6774b55a4949f_256",
-    "lastPlayedAt": "2026-10-25T23:14:54-07:00",
+    "lastPlayedAt": "2026-10-25T23:30:00-07:00",
     "lifetimeMinutes": null,
-    "minutesTotal": 30,
+    "minutesTotal": 40,
     "name": "KUUKIYOMI3: Consider It",
     "source": "switch",
     "url": "https://ec.nintendo.com/apps/01001ac013dec000/US?lang=en-US"
