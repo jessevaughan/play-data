@@ -2,9 +2,9 @@
   "games": [
     {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/ae02ebb2e03d40ae8c93193163ec5824_256",
-      "lastPlayedAt": "2026-10-27T00:50:42-07:00",
+      "lastPlayedAt": "2026-10-27T06:52:04-07:00",
       "lifetimeMinutes": null,
-      "minutesTotal": 5,
+      "minutesTotal": 15,
       "name": "KUUKIYOMI4: Consider It \u2013 Nintendo Switch 2 Edition",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/0100fe1020f6e000/US?lang=en-US&acdIndex=1"
@@ -37,12 +37,12 @@
       "url": "https://ec.nintendo.com/apps/0400c76024710000/US?lang=en-US"
     }
   ],
-  "generatedAt": "2026-10-27T07:50:43Z",
+  "generatedAt": "2026-10-27T13:52:06Z",
   "lastPlayed": {
     "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/ae02ebb2e03d40ae8c93193163ec5824_256",
-    "lastPlayedAt": "2026-10-27T00:50:42-07:00",
+    "lastPlayedAt": "2026-10-27T06:52:04-07:00",
     "lifetimeMinutes": null,
-    "minutesTotal": 5,
+    "minutesTotal": 15,
     "name": "KUUKIYOMI4: Consider It \u2013 Nintendo Switch 2 Edition",
     "source": "switch",
     "url": "https://ec.nintendo.com/apps/0100fe1020f6e000/US?lang=en-US&acdIndex=1"
