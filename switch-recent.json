@@ -2,9 +2,9 @@
   "games": [
     {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/cef81b66bfac4e3d9602c765402f6462_256",
-      "lastPlayedAt": "2026-10-26T22:35:01-07:00",
+      "lastPlayedAt": "2026-10-26T22:50:07-07:00",
       "lifetimeMinutes": null,
-      "minutesTotal": 15,
+      "minutesTotal": 35,
       "name": "Tape to Tape",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/0100d830204e0000/US?lang=en-US"
@@ -37,12 +37,12 @@
       "url": "https://ec.nintendo.com/apps/0100aa7024094000/US?lang=en-US"
     }
   ],
-  "generatedAt": "2026-10-27T05:35:03Z",
+  "generatedAt": "2026-10-27T05:50:09Z",
   "lastPlayed": {
     "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/cef81b66bfac4e3d9602c765402f6462_256",
-    "lastPlayedAt": "2026-10-26T22:35:01-07:00",
+    "lastPlayedAt": "2026-10-26T22:50:07-07:00",
     "lifetimeMinutes": null,
-    "minutesTotal": 15,
+    "minutesTotal": 35,
     "name": "Tape to Tape",
     "source": "switch",
     "url": "https://ec.nintendo.com/apps/0100d830204e0000/US?lang=en-US"
