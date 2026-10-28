@@ -1,6 +1,15 @@
 {
   "games": [
     {
+      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/fc42ba7962f44af4b258f8e8d9c79780_256",
+      "lastPlayedAt": "2026-10-27T23:25:51-07:00",
+      "lifetimeMinutes": 1793,
+      "minutesTotal": 1793,
+      "name": "MLB\u00ae The Show\u2122 26",
+      "source": "switch",
+      "url": "https://ec.nintendo.com/apps/0100aa7024094000/US?lang=en-US"
+    },
+    {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/ae02ebb2e03d40ae8c93193163ec5824_256",
       "lastPlayedAt": "2026-10-27T06:52:04-07:00",
       "lifetimeMinutes": null,
@@ -26,25 +35,16 @@
       "name": "KUUKIYOMI3: Consider It",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/01001ac013dec000/US?lang=en-US"
-    },
-    {
-      "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/b2c813c95ba8492a8cc15dc614dc04cc_256",
-      "lastPlayedAt": "2026-10-25T22:44:44-07:00",
-      "lifetimeMinutes": 514,
-      "minutesTotal": 493,
-      "name": "PRAGMATA",
-      "source": "switch",
-      "url": "https://ec.nintendo.com/apps/0400c76024710000/US?lang=en-US"
     }
   ],
-  "generatedAt": "2026-10-27T13:52:06Z",
+  "generatedAt": "2026-10-28T06:25:53Z",
   "lastPlayed": {
-    "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/ae02ebb2e03d40ae8c93193163ec5824_256",
-    "lastPlayedAt": "2026-10-27T06:52:04-07:00",
-    "lifetimeMinutes": null,
-    "minutesTotal": 15,
-    "name": "KUUKIYOMI4: Consider It \u2013 Nintendo Switch 2 Edition",
+    "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/fc42ba7962f44af4b258f8e8d9c79780_256",
+    "lastPlayedAt": "2026-10-27T23:25:51-07:00",
+    "lifetimeMinutes": 1793,
+    "minutesTotal": 1793,
+    "name": "MLB\u00ae The Show\u2122 26",
     "source": "switch",
-    "url": "https://ec.nintendo.com/apps/0100fe1020f6e000/US?lang=en-US&acdIndex=1"
+    "url": "https://ec.nintendo.com/apps/0100aa7024094000/US?lang=en-US"
   }
 }
