@@ -2,9 +2,9 @@
   "games": [
     {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/ac332888bf604e5e93ae8179704fd4ec_256",
-      "lastPlayedAt": "2026-11-02T22:58:20-08:00",
+      "lastPlayedAt": "2026-11-02T23:28:29-08:00",
       "lifetimeMinutes": null,
-      "minutesTotal": 5,
+      "minutesTotal": 15,
       "name": "Queen's Domain",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/0400878028eb4000/US?lang=en-US"
@@ -37,12 +37,12 @@
       "url": "https://ec.nintendo.com/apps/0100d9f01d474000/US?lang=en-US"
     }
   ],
-  "generatedAt": "2026-11-03T06:58:22Z",
+  "generatedAt": "2026-11-03T07:28:31Z",
   "lastPlayed": {
     "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/ac332888bf604e5e93ae8179704fd4ec_256",
-    "lastPlayedAt": "2026-11-02T22:58:20-08:00",
+    "lastPlayedAt": "2026-11-02T23:28:29-08:00",
     "lifetimeMinutes": null,
-    "minutesTotal": 5,
+    "minutesTotal": 15,
     "name": "Queen's Domain",
     "source": "switch",
     "url": "https://ec.nintendo.com/apps/0400878028eb4000/US?lang=en-US"
