@@ -2,9 +2,9 @@
   "games": [
     {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/28e8fae272fc4a11ab07848881779c60_256",
-      "lastPlayedAt": "2026-11-07T14:09:01-08:00",
+      "lastPlayedAt": "2026-11-07T15:39:22-08:00",
       "lifetimeMinutes": null,
-      "minutesTotal": 115,
+      "minutesTotal": 120,
       "name": "The Legend of Zelda: Ocarina of Time",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/0400486024dec000/US?lang=en-US"
@@ -37,12 +37,12 @@
       "url": "https://ec.nintendo.com/apps/01005700031ae000/US?lang=en-US"
     }
   ],
-  "generatedAt": "2026-11-07T22:09:02Z",
+  "generatedAt": "2026-11-07T23:39:24Z",
   "lastPlayed": {
     "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/28e8fae272fc4a11ab07848881779c60_256",
-    "lastPlayedAt": "2026-11-07T14:09:01-08:00",
+    "lastPlayedAt": "2026-11-07T15:39:22-08:00",
     "lifetimeMinutes": null,
-    "minutesTotal": 115,
+    "minutesTotal": 120,
     "name": "The Legend of Zelda: Ocarina of Time",
     "source": "switch",
     "url": "https://ec.nintendo.com/apps/0400486024dec000/US?lang=en-US"
