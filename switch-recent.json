@@ -2,29 +2,29 @@
   "games": [
     {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/fc42ba7962f44af4b258f8e8d9c79780_256",
-      "lastPlayedAt": "2026-11-15T06:41:32-08:00",
+      "lastPlayedAt": "2026-11-15T06:56:38-08:00",
       "lifetimeMinutes": 2013,
-      "minutesTotal": 1970,
+      "minutesTotal": 1975,
       "name": "MLB\u00ae The Show\u2122 26",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/0100aa7024094000/US?lang=en-US"
     },
     {
       "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/28e8fae272fc4a11ab07848881779c60_256",
-      "lastPlayedAt": "2026-11-14T22:39:43-08:00",
+      "lastPlayedAt": "2026-11-15T06:56:38-08:00",
       "lifetimeMinutes": null,
-      "minutesTotal": 340,
+      "minutesTotal": 341,
       "name": "The Legend of Zelda: Ocarina of Time",
       "source": "switch",
       "url": "https://ec.nintendo.com/apps/0400486024dec000/US?lang=en-US"
     }
   ],
-  "generatedAt": "2026-11-15T14:41:33Z",
+  "generatedAt": "2026-11-15T14:56:39Z",
   "lastPlayed": {
     "img": "https://atum-img-lp1.cdn.nintendo.net/i/c/fc42ba7962f44af4b258f8e8d9c79780_256",
-    "lastPlayedAt": "2026-11-15T06:41:32-08:00",
+    "lastPlayedAt": "2026-11-15T06:56:38-08:00",
     "lifetimeMinutes": 2013,
-    "minutesTotal": 1970,
+    "minutesTotal": 1975,
     "name": "MLB\u00ae The Show\u2122 26",
     "source": "switch",
     "url": "https://ec.nintendo.com/apps/0100aa7024094000/US?lang=en-US"
