@@ -2,13 +2,13 @@
   "games": [
     {
       "img": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1818/1c8e3e304f0bad2d99ffed828ad460ebe5949608cb82a5dd.png",
-      "lastPlayedAt": "2026-11-24T09:03:35Z",
+      "lastPlayedAt": "2026-11-25T06:27:12Z",
       "minutesTotal": 1399,
       "name": "Grand Theft Auto VI",
       "source": "psn",
       "url": "https://store.playstation.com/en-us/concept/10000730"
     }
   ],
-  "generatedAt": "2026-11-24T22:46:03Z",
+  "generatedAt": "2026-11-25T06:33:11Z",
   "lastPlayed": null
 }
